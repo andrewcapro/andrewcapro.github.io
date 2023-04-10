@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    display: block;
+    background-color: #5082af;
+    color: #e0e0e0
+}
+
+h1 {
+    font-size: 48px;
+}
+
+#title {
+    text-align: center;
+}
+
+#title-body {
+    text-align: center;
+    font-size: 24px;
+}
